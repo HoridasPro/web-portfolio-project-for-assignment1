@@ -41,6 +41,10 @@ body{
   border: none;
   font-weight: bold;
 }
+.button:hover{
+  background-color: #f39c12;
+  color: #fff;
+}
 
  /* Banner Style */
 .banner_section{
