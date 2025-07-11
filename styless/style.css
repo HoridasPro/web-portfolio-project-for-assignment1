@@ -37,7 +37,7 @@
   border: none;
   font-weight: bold;
 }
-/* Banner Style
+ Banner Style
 .banner_section{
   text-align: center;
   padding: 70px  260px 90px 260px
@@ -48,6 +48,7 @@
   font-weight: bold;
   margin-bottom: 25px;
 }
+
 Action Section Style
 .action_section{
   display: flex;
@@ -83,6 +84,7 @@ Action Section Style
   height: 250px;
   border-radius: 48px;
 }
+/*
 User Section Style
 .content_users{
   text-align: center;
