@@ -37,7 +37,7 @@
   border: none;
   font-weight: bold;
 }
- Banner Style
+ /* Banner Style */
 .banner_section{
   text-align: center;
   padding: 70px  260px 90px 260px
@@ -86,7 +86,7 @@
 }
 
 /* User Section Style */
-/* .content_users{
+ .content_users{
   text-align: center;
   background-color: #cdcbf1;
   margin: 100px 130px 160px 160px;
@@ -116,4 +116,51 @@
   font-size: 20px;
   color: #252432;
   margin-top: 5px;
-} */
+}
+/* User Feedback Style  */
+.feedback_section{
+  display: flex;
+  justify-content: space-around;
+   margin: 100px 130px 160px 160px;
+  padding: 50px 20px;
+  gap: 20px;
+}
+.user_feedback{
+  background-color: #fff;
+  box-shadow: 5px 5px 20px 0.8px;
+  padding: 20px 15px;
+  border-radius: 10px;
+
+}
+.feedback_h4{
+  color: #1E1E1E;
+  font-size: 20px;
+  margin-bottom: 15px;
+
+}
+.feedback_p{
+  color: #1E1E1E;
+  font-size: 12px;
+
+}
+.text_img{
+  display: flex;
+  margin-top: 15px;
+  align-items: center;
+}
+.text_img img{
+  border-radius: 50%;
+  margin: 10px;
+  
+
+}
+.h5{
+  color: #757575;
+  font-size: 12px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.date_h4{
+  color: #B3B3B3;
+  font-size: 12px;
+}
