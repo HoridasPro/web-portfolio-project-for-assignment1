@@ -237,3 +237,44 @@ body{
   width: 600px;
   margin-top: -70px;
 }
+/* Footer Area Style */
+.footer_area{
+  text-align: center;
+  background-color: #fff;
+  padding: 100px 0;
+   
+  
+  
+}
+.footer_h1{
+  color: #4E47FF;
+  font-size: 70px;
+   font-weight: 900;
+letter-spacing: 3px;
+
+    font-family: "Inter", sans-serif;
+  
+}
+.footer_p{
+  color: #8987A1;
+  font-size: 13px;
+  width: 425px;
+  margin-left: 520px;
+  line-height: 20px;
+}
+.footer_list{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-top: -8px;
+}
+.footer_li{
+  margin: 20px;
+  list-style: none;
+}
+.footer_li a{
+  text-decoration: none;
+  color: #8987A1;
+  font-size: 13px;
+
+}
