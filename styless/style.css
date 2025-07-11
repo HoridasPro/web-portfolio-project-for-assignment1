@@ -32,6 +32,9 @@ body{
   font-weight: 900;
   font-family: "Inter", sans-serif;
 }
+.navigation_bar ul li:hover{
+  cursor: pointer;
+}
 .button{
   padding: 10px 25px;
   background-color: #4E47FF;
@@ -274,4 +277,7 @@ body{
   text-decoration: none;
   color: #8987A1;
   font-size: 13px;
+}
+.footer_li a:hover{
+  color: blueviolet;
 }
